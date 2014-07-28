@@ -320,14 +320,14 @@ define(["json2"], function () {
 
     /**
      * @description app分享h5页面内容
-     * @param jsonStr
+     * @param jsonObj
      * @returns {*}
      */
-    shareInfoFromH5: function (jsonStr) {
-      jsonStr = jsonStr || '';
+    shareInfoFromH5: function (jsonObj) {
+      var jsonStr;
 
-      if (window._tc_bridge_public.NaEptStr(jsonStr)) {
-        jsonStr = window._tc_bridge_public.stringifyAndEncode(jsonStr);
+      if (window._tc_bridge_public.NaEptObj(jsonObj)) {
+        jsonStr = window._tc_bridge_public.stringifyAndEncode(jsonObj);
 
         return window._tc_ntv_bar.shareInfoFromH5(jsonStr);
       }

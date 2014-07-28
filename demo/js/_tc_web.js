@@ -42,16 +42,15 @@ define(["jquery", "temp"], function ($, temp) {
           tcshareurl: tcshareurl,
           tcshareimg: tcshareimg,
           tcsharetxt: tcsharetxt
-        },
+        };
 //      var jsonObj = {
 //          tcshareurl: 'http://www.guhaodi.com',
 //          tcshareimg: '/i/a.img',
 //          tcsharetxt: 'hello world'
 //        },
-        jsonStr = window._tc_bridge_public.stringifyAndEncode(jsonObj);
 
-      if (window._tc_bridge_public.NaEptStr(jsonStr)) {
-        window._tc_bridge_bar.shareInfoFromH5(jsonStr);
+      if (window._tc_bridge_public.NaEptObj(jsonObj)) {
+        window._tc_bridge_bar.shareInfoFromH5(jsonObj);
       }
     }
   };
@@ -99,6 +98,7 @@ define(["jquery", "temp"], function ($, temp) {
         }
       }
     }
+
   };
 
   window._tc_web_encrypt = {

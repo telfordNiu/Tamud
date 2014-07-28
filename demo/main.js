@@ -50,6 +50,10 @@ require(["jquery", "json2", "bridge", "_tc_web"], function ($) {
     window._tc_bridge_user.user_login();
   }).on('click', '#download', function () {
     window._tc_bridge_util.download_data('http://www.guhaodi.com/img/bazinga.jpg', 'jpg');
+  }).on('click', '#readfromclipboard', function () {
+    window._tc_bridge_util.read_copied_string_from_clipboard();
+  }).on('click', '#log', function () {
+    window._tc_bridge_util.log('Hello World!', 'succeed!');
   }).on('click', '#checkfileexist', function () {
     window._tc_bridge_file.check_file_exist('demo.txt', null);
   }).on('click', '#deletefile', function () {
