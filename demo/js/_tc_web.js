@@ -34,6 +34,12 @@ define(["jquery", "temp"], function ($, temp) {
   };
 
   window._tc_web_bar = {
+    set_navbar: function (paramObj) {
+      if (window._tc_bridge_public.NaEptObj(paramObj)) {
+        window._tc_bridge_public.isNavbarHidden = paramObj.isNavbarHidden;
+      }
+    },
+
     tag_click_share: function () {
       var tcshareurl = $('[name=tcshareurl]').val() || '',
         tcshareimg = $('[name=tcshareimg]').val() || '',

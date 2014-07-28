@@ -31,7 +31,7 @@ require(["jquery", "json2", "bridge", "_tc_web"], function ($) {
   }
 
   $(document).on('click', '#hidenav', function () {
-    window._tc_bridge_bar.set_navbar_hidden(true);
+    window._tc_bridge_bar.set_navbar_hidden();
   }).on('click', '#hidetool', function () {
     window._tc_bridge_bar.set_toolbar_hidden(true);
   }).on('click', '#hasapp', function () {

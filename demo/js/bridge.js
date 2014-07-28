@@ -18,6 +18,8 @@ define(["json2"], function () {
      */
     isLogin: null,
 
+    isNavbarHidden: null,
+
     /**
      * @description 判断一个字符串是不是空字符串
      * @param {String} str 待判断的字符串
@@ -306,8 +308,8 @@ define(["json2"], function () {
      * @description 设置导航栏是否隐藏
      * @param isHidden
      */
-    set_navbar_hidden: function (isHidden) {
-      return window._tc_ntv_bar.set_navbar_hidden(isHidden);
+    set_navbar_hidden: function () {
+      return window._tc_ntv_bar.set_navbar_hidden(!window._tc_bridge_public.isNavbarHidden);
     },
 
     /**
