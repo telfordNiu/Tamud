@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Microsoft YaHei';
+  background-color: #e3e3e3;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding: 5px 15px;
+  height: 40px;
+  border-bottom: 1px solid #ccc;
+}
+
+nav > ul {
+  margin: 0;
+  padding: 0;
+  height: 30px;
+  line-height: 30px;
+}
+
+nav > ul > li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+nav > ul > li:first-child {
+  width: 25%;
+  text-align: left;
+}
+
+nav > ul > li:nth-child(2) {
+  width: 50%;
+  text-align: center;
+}
+
+nav >ul > li:last-child {
+  width: 22%;
+  text-align: right;
+}
+
+main {
+  padding: 0 10px 0 10px;
+}
+
+#reminder > span{
+  padding: 15px 0 5px 0;
+  display: block;
+}
+
+#btns {
+  margin: 0 auto;
+}
+
+#userinfo {
+  border: 1px solid #ccc;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 5px;
+  width: 100%;
+  margin-top: 15px;
+  background-color: #fff;
+}
+
+#userinfo > tr {
+  border-bottom: 1px solid #ddd;
+  width: 100%;
+}
+
+#userinfo > tr:last-child > td {
+  border-bottom: transparent;
+}
+
+#userinfo > tr > td {
+  padding: 5px;
+  border-bottom: 1px solid #ccc;
+}
+
+#userinfo > tr > td:first-child {
+  width: 25%;
+}
+
+#userinfo > tr > td:nth-child(2) {
+  width: 50%;
+  text-align: center;
+}
+
+#userinfo > tr > td:last-child {
+  width: 22% !important;
+  text-align: right;
+}
+
+#test {
+  padding-top: 10px;
+}
+
+#test > div {
+  width: 100%;
+  padding: 0;
+  border: none;
+  margin: 0;
+}
+
+#test button {
+  display: inline-block;
+  margin: 0 0 5px 0;
+  width: 49%;
+}
+/*
+#login {
+	margin: 0 auto;
+	padding: 20px;
+}
+
+#login > div {
+  max-width: 400px;
+	margin: 15px auto;
+	padding: 5px;
+}
+
+#login > div > label {
+  width: 25%;
+  max-width: 100px;
+	display: inline-block;
+	text-align: right;
+}
+
+#login > div > input {
+  height: 23px;
+  width: 65%;
+  max-width: 250px;
+	padding: 2px;
+	border: 1px solid #000;
+	border-radius: 3px;
+}
+
+#login > div > span {
+	margin-left: 25%;
+	width: 50px;
+	height: 30px;
+	padding: 8px;
+	border: 1px solid #000;
+	border-radius: 5px;
+	background-color: #3498db;
+	cursor: pointer;
+	color: #fff;
+}
+*/

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+	<title>hybrid demo</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="css/demo.css">
+  <script src="js/require.js" data-main="main"></script>
+</head>
+<body>
+  <!--<nav>-->
+    <!--<ul>-->
+      <!--<li class="left"><span class="glyphicon glyphicon-chevron-left"></span></li>-->
+      <!--<li class="center">同程旅游</li>-->
+      <!--<li class="right">分享</li>-->
+    <!--</ul>-->
+  <!--</nav>-->
+  <main>
+    <!--未登录提示-->
+    <div id="reminder">
+      <span class="text-center">您还没有登录哦~</span>
+      <div id="btns" class="text-center">
+        <button type="button" class="btn btn-primary btn-sm" id="loginBtn">登录</button>
+        <button type="button" class="btn btn-success btn-sm" id="registerBtn">注册</button>
+      </div>
+    </div>
+
+    <div id="test">
+      <div>
+        <button class="btn btn-primary btn-sm" id="backtoindex" type="button">返回首页</button>
+        <button class="btn btn-primary btn-sm" id="backtolast" type="button">返回上一页</button>
+      </div>
+      <div>
+        <button class="btn btn-primary btn-sm" id="hasapp" type="button">检查是否安装app</button>
+        <button class="btn btn-primary btn-sm" id="hasnetwork" type="button">检查是否有网络</button>
+      </div>
+      <div>
+        <button class="btn btn-primary btn-sm" id="hidenav" type="button">隐藏导航栏</button>
+        <button class="btn btn-primary btn-sm" id="hidetool" type="button">隐藏工具栏</button>
+      </div>
+      <div>
+        <button class="btn btn-primary btn-sm" id="call" type="button">拨打电话</button>
+        <button class="btn btn-primary btn-sm" id="cpytoclipboard" type="button">复制到剪贴板</button>
+      </div>
+      <div>
+        <button class="btn btn-primary btn-sm" id="download" type="button">根据URL下载数据</button>
+        <button class="btn btn-primary btn-sm" id="readfromclipboard" type="button">从剪贴板读取文字</button>
+      </div>
+      <div>
+        <button class="btn btn-primary btn-sm" id="log" type="button">写日志到app</button>
+        <button class="btn btn-primary btn-sm" id="" type="button">根据URL下载数据</button>
+      </div>
+      <div>
+        <button class="btn btn-primary btn-sm" id="checkfileexist" type="button">检查文件是否存在</button>
+        <button class="btn btn-primary btn-sm" id="deletefile" type="button">删除文件</button>
+      </div>
+      <div>
+        <button class="btn btn-primary btn-sm" id="getcurrentsandbox" type="button">获取当前沙箱名</button>
+        <button class="btn btn-primary btn-sm" id="mkdir" type="button">创建文件夹</button>
+      </div>
+      <div>
+        <button class="btn btn-primary btn-sm" id="getfilesize" type="button">读取文件大小</button>
+        <button class="btn btn-primary btn-sm" id="getfilecont" type="button">读取文件内容</button>
+      </div>
+      <div>
+        <button class="btn btn-primary btn-sm" id="writetofile" type="button">向文件写入内容</button>
+        <button class="btn btn-primary btn-sm" id="base64" type="button">base64编码</button>
+      </div>
+      <div>
+        <button class="btn btn-primary btn-sm" id="md5" type="button">MD5哈希算法</button>
+      </div>
+    </div>
+
+    <!--用户信息模板-->
+    <table id="userinfo">
+      <script id="userInfoTemp" type="text/template">
+        <% _.each(data, function(item){%>
+        <tr class="userDetail">
+          <td class="left"><%= item.type %></td>
+          <td class="center"><%= item.info %></td>
+          <td class="right"><span class="glyphicon glyphicon-chevron-right"></span></td>
+        </tr>
+        <% });%>
+      </script>
+    </table>
+  </main>
+
+  <input type="hidden" name="tcshareimg" value="http://www/guhaodi.com/img/bazinga.jpg"/>
+  <input type="hidden" name="tcsharetxt" value="屌丝小顾的幻想世界"/>
+  <input type="hidden" name="tcshareurl" value="http://www.guhaodi.com"/>
+  <!--<section id="login">-->
+    <!--<div class="userName">-->
+      <!--<label for="username">用户名：</label><input type="text" name="username" id="username">-->
+    <!--</div>-->
+    <!--<div class="password">-->
+      <!--<label for="password">密码：</label><input type="password" name="password" id="password">-->
+    <!--</div>-->
+    <!--<div class="submit">-->
+    	<!--<span class="login">登录</span>-->
+    <!--</div>-->
+  <!--</section>-->
+</body>
+</html>
