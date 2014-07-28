@@ -107,7 +107,7 @@ define(["jquery", "temp"], function ($, temp) {
         var inString = paramObj.inString || '',
           encodedString = paramObj.encodedString || '';
 
-        if (window._tc_bridge_public.NaEptStr(inString) && window._tc_bridge_public.NaEptObj(encodedString)) {
+        if (window._tc_bridge_public.NaEptStr(inString) && window._tc_bridge_public.NaEptStr(encodedString)) {
           alert('base64加密前字符串:' + inString + '<br />' + '加密后字符串:' + encodedString);
         }
       }
@@ -118,7 +118,7 @@ define(["jquery", "temp"], function ($, temp) {
         var inString = paramObj.inString || '',
           outString = paramObj.outString || '';
 
-        if (window._tc_bridge_public.NaEptStr(inString) && window._tc_bridge_public.NaEptObj(outString)) {
+        if (window._tc_bridge_public.NaEptStr(inString) && window._tc_bridge_public.NaEptStr(outString)) {
           alert('MD5 哈希加密前字符串:' + inString + '<br />' + '加密后字符串:' + outString);
         }
       }
