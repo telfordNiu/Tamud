@@ -289,13 +289,13 @@ define(["json2"], function () {
   window._tc_bridge_bar = {
     /**
      * @description 根据传递的参数设置导航栏
-     * @param jsonStr
+     * @param jsonObj
      */
-    set_navbar: function (jsonStr) {
-      jsonStr = jsonStr || '';
+    set_navbar: function (jsonObj) {
+      var jsonStr;
 
-      if (window._tc_bridge_public.NaEptStr(jsonStr)) {
-        jsonStr = window._tc_bridge_public.stringifyAndEncode(jsonStr);
+      if (window._tc_bridge_public.NaEptObj(jsonObj)) {
+        jsonStr = window._tc_bridge_public.stringifyAndEncode(jsonObj);
 
         return window._tc_ntv_bar.set_navbar(jsonStr);
       }

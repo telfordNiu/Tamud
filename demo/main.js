@@ -26,7 +26,6 @@ require(["jquery", "json2", "bridge", "_tc_web"], function ($) {
 //
 //  window[cbPlugin][cbAction]();
 
-  navbarJSON = JSON.stringify(navbarJSON);
   if (window._tc_ntv_bar) {
     window._tc_bridge_bar.set_navbar(navbarJSON);
   }

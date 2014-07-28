@@ -26,12 +26,9 @@
       <file leaf-file-name="demo.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.2" vertical-offset="0" max-vertical-offset="944">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1280" max-vertical-offset="1744">
               <caret line="80" column="49" selection-start-line="80" selection-start-column="49" selection-end-line="80" selection-end-column="49" />
-              <folding>
-                <element signature="tag#div#0;tag#main#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#1;tag#main#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -39,19 +36,9 @@
       <file leaf-file-name="demo.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/demo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="665" max-vertical-offset="2096">
+            <state vertical-scroll-proportion="0.0" vertical-offset="928" max-vertical-offset="2528">
               <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-              <folding>
-                <element signature="e#906#957#0" expanded="false" />
-                <element signature="e#990#1023#0" expanded="false" />
-                <element signature="e#1045#1097#0" expanded="false" />
-                <element signature="e#1131#1148#0" expanded="false" />
-                <element signature="e#1183#1222#0" expanded="false" />
-                <element signature="e#1255#1304#0" expanded="false" />
-                <element signature="e#1312#1336#0" expanded="false" />
-                <element signature="e#1350#1411#0" expanded="false" />
-                <element signature="e#1426#1489#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -59,8 +46,8 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="1248">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="1232">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,8 +56,8 @@
       <file leaf-file-name="bridge.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/bridge.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9595537" vertical-offset="5088" max-vertical-offset="5888">
-              <caret line="664" column="0" selection-start-line="664" selection-start-column="0" selection-end-line="664" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.22315203" vertical-offset="0" max-vertical-offset="6080">
+              <caret line="291" column="20" selection-start-line="291" selection-start-column="20" selection-end-line="291" selection-end-column="20" />
               <folding>
                 <element signature="e#61#7471#0" expanded="false" />
                 <element signature="e#67#134#0" expanded="false" />
@@ -100,12 +87,10 @@
                 <element signature="e#7211#7467#0" expanded="false" />
                 <element signature="e#7537#7779#0" expanded="false" />
                 <element signature="e#7543#7601#0" expanded="false" />
-                <element signature="e#7814#7880#0" expanded="false" />
-                <element signature="e#7916#8178#0" expanded="false" />
-                <element signature="e#8185#8249#0" expanded="false" />
-                <element signature="e#8293#8361#0" expanded="false" />
-                <element signature="e#8368#8432#0" expanded="false" />
-                <element signature="e#8477#8546#0" expanded="false" />
+                <element signature="e#8173#8237#0" expanded="false" />
+                <element signature="e#8281#8349#0" expanded="false" />
+                <element signature="e#8356#8420#0" expanded="false" />
+                <element signature="e#8465#8534#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -114,15 +99,9 @@
       <file leaf-file-name="_tc_web.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/_tc_web.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="768">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2944" max-vertical-offset="3040">
               <caret line="184" column="2" selection-start-line="184" selection-start-column="2" selection-end-line="184" selection-end-column="2" />
-              <folding>
-                <element signature="e#1066#1771#0" expanded="false" />
-                <element signature="e#1798#2763#0" expanded="false" />
-                <element signature="e#2793#3623#0" expanded="false" />
-                <element signature="e#3253#3619#0" expanded="false" />
-                <element signature="e#3650#5027#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -144,15 +123,15 @@
         <option value="$PROJECT_DIR$/js/usercontroller.js" />
         <option value="$PROJECT_DIR$/js/angular-bootstrap.js" />
         <option value="$PROJECT_DIR$/js/app.js" />
-        <option value="E:/Tamud/demo/demo.html" />
-        <option value="E:/Tamud/demo/temp.js" />
+        <option value="$PROJECT_DIR$/../../demo/demo.html" />
+        <option value="$PROJECT_DIR$/../../demo/temp.js" />
         <option value="E:/works/demo/main.js" />
         <option value="$PROJECT_DIR$/js/_tc_web_bar.js" />
         <option value="$PROJECT_DIR$/js/_tc_web_user.js" />
         <option value="$PROJECT_DIR$/js/temp.js" />
         <option value="$PROJECT_DIR$/css/demo.css" />
-        <option value="E:/Tamud/ppt/2014-07-28/main.js" />
-        <option value="E:/Tamud/ppt/2014-07-28/index.html" />
+        <option value="$PROJECT_DIR$/../../ppt/2014-07-28/main.js" />
+        <option value="$PROJECT_DIR$/../../ppt/2014-07-28/index.html" />
         <option value="$PROJECT_DIR$/js/_tc_web.js" />
         <option value="$PROJECT_DIR$/demo.html" />
         <option value="C:/Users/ghd08888/AppData/Local/Temp/Rar$DIa0.424/bridge.js" />
@@ -300,6 +279,14 @@
       <ConfigurationWrapper RunnerId="NodeJS.run" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -310,12 +297,14 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
       <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -323,16 +312,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
-      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -400,11 +379,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -421,9 +400,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496474" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.114950635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -460,6 +439,14 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/_tc_web.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2944" max-vertical-offset="3040">
+          <caret line="184" column="2" selection-start-line="184" selection-start-column="2" selection-end-line="184" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/demo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2528">
@@ -481,7 +468,38 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2512" max-vertical-offset="3216">
           <caret line="355" column="34" selection-start-line="355" selection-start-column="34" selection-end-line="355" selection-end-column="34" />
           <folding>
+            <element signature="e#61#7471#0" expanded="false" />
             <element signature="e#67#134#0" expanded="false" />
+            <element signature="e#183#267#0" expanded="false" />
+            <element signature="e#293#367#0" expanded="false" />
+            <element signature="e#392#498#0" expanded="false" />
+            <element signature="e#528#596#0" expanded="false" />
+            <element signature="e#603#706#0" expanded="false" />
+            <element signature="e#736#823#0" expanded="false" />
+            <element signature="e#830#981#0" expanded="false" />
+            <element signature="e#1025#1256#0" expanded="false" />
+            <element signature="e#1263#1406#0" expanded="false" />
+            <element signature="e#1446#1645#0" expanded="false" />
+            <element signature="e#1718#2024#0" expanded="false" />
+            <element signature="e#2031#2477#0" expanded="false" />
+            <element signature="e#2508#3022#0" expanded="false" />
+            <element signature="e#3029#3475#0" expanded="false" />
+            <element signature="e#3506#4023#0" expanded="false" />
+            <element signature="e#4030#4904#0" expanded="false" />
+            <element signature="e#4910#5400#0" expanded="false" />
+            <element signature="e#5401#5441#0" expanded="false" />
+            <element signature="e#5924#6415#0" expanded="false" />
+            <element signature="e#6416#6456#0" expanded="false" />
+            <element signature="e#6906#7052#0" expanded="false" />
+            <element signature="e#7093#7140#0" expanded="false" />
+            <element signature="e#7147#7188#0" expanded="false" />
+            <element signature="e#7211#7467#0" expanded="false" />
+            <element signature="e#7537#7779#0" expanded="false" />
+            <element signature="e#7543#7601#0" expanded="false" />
+            <element signature="e#8173#8237#0" expanded="false" />
+            <element signature="e#8281#8349#0" expanded="false" />
+            <element signature="e#8356#8420#0" expanded="false" />
+            <element signature="e#8465#8534#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -498,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="432">
           <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -506,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="176">
           <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -539,7 +555,38 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="416" max-vertical-offset="1232">
           <caret line="307" column="2" selection-start-line="307" selection-start-column="2" selection-end-line="307" selection-end-column="2" />
           <folding>
+            <element signature="e#61#7471#0" expanded="false" />
             <element signature="e#67#134#0" expanded="false" />
+            <element signature="e#183#267#0" expanded="false" />
+            <element signature="e#293#367#0" expanded="false" />
+            <element signature="e#392#498#0" expanded="false" />
+            <element signature="e#528#596#0" expanded="false" />
+            <element signature="e#603#706#0" expanded="false" />
+            <element signature="e#736#823#0" expanded="false" />
+            <element signature="e#830#981#0" expanded="false" />
+            <element signature="e#1025#1256#0" expanded="false" />
+            <element signature="e#1263#1406#0" expanded="false" />
+            <element signature="e#1446#1645#0" expanded="false" />
+            <element signature="e#1718#2024#0" expanded="false" />
+            <element signature="e#2031#2477#0" expanded="false" />
+            <element signature="e#2508#3022#0" expanded="false" />
+            <element signature="e#3029#3475#0" expanded="false" />
+            <element signature="e#3506#4023#0" expanded="false" />
+            <element signature="e#4030#4904#0" expanded="false" />
+            <element signature="e#4910#5400#0" expanded="false" />
+            <element signature="e#5401#5441#0" expanded="false" />
+            <element signature="e#5924#6415#0" expanded="false" />
+            <element signature="e#6416#6456#0" expanded="false" />
+            <element signature="e#6906#7052#0" expanded="false" />
+            <element signature="e#7093#7140#0" expanded="false" />
+            <element signature="e#7147#7188#0" expanded="false" />
+            <element signature="e#7211#7467#0" expanded="false" />
+            <element signature="e#7537#7779#0" expanded="false" />
+            <element signature="e#7543#7601#0" expanded="false" />
+            <element signature="e#8173#8237#0" expanded="false" />
+            <element signature="e#8281#8349#0" expanded="false" />
+            <element signature="e#8356#8420#0" expanded="false" />
+            <element signature="e#8465#8534#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -556,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="464">
           <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -589,7 +635,38 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5024">
           <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
           <folding>
+            <element signature="e#61#7471#0" expanded="false" />
             <element signature="e#67#134#0" expanded="false" />
+            <element signature="e#183#267#0" expanded="false" />
+            <element signature="e#293#367#0" expanded="false" />
+            <element signature="e#392#498#0" expanded="false" />
+            <element signature="e#528#596#0" expanded="false" />
+            <element signature="e#603#706#0" expanded="false" />
+            <element signature="e#736#823#0" expanded="false" />
+            <element signature="e#830#981#0" expanded="false" />
+            <element signature="e#1025#1256#0" expanded="false" />
+            <element signature="e#1263#1406#0" expanded="false" />
+            <element signature="e#1446#1645#0" expanded="false" />
+            <element signature="e#1718#2024#0" expanded="false" />
+            <element signature="e#2031#2477#0" expanded="false" />
+            <element signature="e#2508#3022#0" expanded="false" />
+            <element signature="e#3029#3475#0" expanded="false" />
+            <element signature="e#3506#4023#0" expanded="false" />
+            <element signature="e#4030#4904#0" expanded="false" />
+            <element signature="e#4910#5400#0" expanded="false" />
+            <element signature="e#5401#5441#0" expanded="false" />
+            <element signature="e#5924#6415#0" expanded="false" />
+            <element signature="e#6416#6456#0" expanded="false" />
+            <element signature="e#6906#7052#0" expanded="false" />
+            <element signature="e#7093#7140#0" expanded="false" />
+            <element signature="e#7147#7188#0" expanded="false" />
+            <element signature="e#7211#7467#0" expanded="false" />
+            <element signature="e#7537#7779#0" expanded="false" />
+            <element signature="e#7543#7601#0" expanded="false" />
+            <element signature="e#8173#8237#0" expanded="false" />
+            <element signature="e#8281#8349#0" expanded="false" />
+            <element signature="e#8356#8420#0" expanded="false" />
+            <element signature="e#8465#8534#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -606,7 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="464">
           <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,7 +715,38 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="4464" max-vertical-offset="4848">
           <caret line="279" column="31" selection-start-line="279" selection-start-column="31" selection-end-line="279" selection-end-column="31" />
           <folding>
+            <element signature="e#61#7471#0" expanded="false" />
             <element signature="e#67#134#0" expanded="false" />
+            <element signature="e#183#267#0" expanded="false" />
+            <element signature="e#293#367#0" expanded="false" />
+            <element signature="e#392#498#0" expanded="false" />
+            <element signature="e#528#596#0" expanded="false" />
+            <element signature="e#603#706#0" expanded="false" />
+            <element signature="e#736#823#0" expanded="false" />
+            <element signature="e#830#981#0" expanded="false" />
+            <element signature="e#1025#1256#0" expanded="false" />
+            <element signature="e#1263#1406#0" expanded="false" />
+            <element signature="e#1446#1645#0" expanded="false" />
+            <element signature="e#1718#2024#0" expanded="false" />
+            <element signature="e#2031#2477#0" expanded="false" />
+            <element signature="e#2508#3022#0" expanded="false" />
+            <element signature="e#3029#3475#0" expanded="false" />
+            <element signature="e#3506#4023#0" expanded="false" />
+            <element signature="e#4030#4904#0" expanded="false" />
+            <element signature="e#4910#5400#0" expanded="false" />
+            <element signature="e#5401#5441#0" expanded="false" />
+            <element signature="e#5924#6415#0" expanded="false" />
+            <element signature="e#6416#6456#0" expanded="false" />
+            <element signature="e#6906#7052#0" expanded="false" />
+            <element signature="e#7093#7140#0" expanded="false" />
+            <element signature="e#7147#7188#0" expanded="false" />
+            <element signature="e#7211#7467#0" expanded="false" />
+            <element signature="e#7537#7779#0" expanded="false" />
+            <element signature="e#7543#7601#0" expanded="false" />
+            <element signature="e#8173#8237#0" expanded="false" />
+            <element signature="e#8281#8349#0" expanded="false" />
+            <element signature="e#8356#8420#0" expanded="false" />
+            <element signature="e#8465#8534#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -656,240 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="416" max-vertical-offset="1072">
           <caret line="74" column="56" selection-start-line="74" selection-start-column="56" selection-end-line="74" selection-end-column="56" />
-          <folding>
-            <element signature="e#67#134#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/bridge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="4208">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding>
-            <element signature="e#67#134#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/bridge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="4208">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding>
-            <element signature="e#67#134#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/bridge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5301">
-          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding>
-            <element signature="e#67#134#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="256" max-vertical-offset="432">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/bridge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4464">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#67#134#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="448">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/bridge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="4464">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="e#67#134#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62217194" vertical-offset="22237" max-vertical-offset="34992">
-          <caret line="1407" column="18" selection-start-line="1407" selection-start-column="18" selection-end-line="1407" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Tamud/demo/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.76" vertical-offset="0" max-vertical-offset="400">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Tamud/demo/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="528">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/works/demo/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66480446" vertical-offset="20" max-vertical-offset="736">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Tamud/demo/temp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06703911" vertical-offset="0" max-vertical-offset="716">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/temp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="320">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/underscore-min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="128">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Tamud/impress.js/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.04" vertical-offset="3952" max-vertical-offset="7104">
-          <caret line="258" column="7" selection-start-line="258" selection-start-column="7" selection-end-line="258" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Tamud/ppt/2014-07-28/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.4" vertical-offset="0" max-vertical-offset="304">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Tamud/ppt/2014-07-28/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="717">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Tamud/ppt/2014-07-28/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15620641" vertical-offset="0" max-vertical-offset="717">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/demo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="665" max-vertical-offset="2096">
-          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-          <folding>
-            <element signature="e#906#957#0" expanded="false" />
-            <element signature="e#990#1023#0" expanded="false" />
-            <element signature="e#1045#1097#0" expanded="false" />
-            <element signature="e#1131#1148#0" expanded="false" />
-            <element signature="e#1183#1222#0" expanded="false" />
-            <element signature="e#1255#1304#0" expanded="false" />
-            <element signature="e#1312#1336#0" expanded="false" />
-            <element signature="e#1350#1411#0" expanded="false" />
-            <element signature="e#1426#1489#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/_tc_web.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="768">
-          <caret line="184" column="2" selection-start-line="184" selection-start-column="2" selection-end-line="184" selection-end-column="2" />
-          <folding>
-            <element signature="e#1066#1771#0" expanded="false" />
-            <element signature="e#1798#2763#0" expanded="false" />
-            <element signature="e#2793#3623#0" expanded="false" />
-            <element signature="e#3253#3619#0" expanded="false" />
-            <element signature="e#3650#5027#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="1248">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.2" vertical-offset="0" max-vertical-offset="944">
-          <caret line="80" column="49" selection-start-line="80" selection-start-column="49" selection-end-line="80" selection-end-column="49" />
-          <folding>
-            <element signature="tag#div#0;tag#main#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#1;tag#main#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/bridge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9595537" vertical-offset="5088" max-vertical-offset="5888">
-          <caret line="664" column="0" selection-start-line="664" selection-start-column="0" selection-end-line="664" selection-end-column="0" />
           <folding>
             <element signature="e#61#7471#0" expanded="false" />
             <element signature="e#67#134#0" expanded="false" />
@@ -919,12 +792,405 @@
             <element signature="e#7211#7467#0" expanded="false" />
             <element signature="e#7537#7779#0" expanded="false" />
             <element signature="e#7543#7601#0" expanded="false" />
-            <element signature="e#7814#7880#0" expanded="false" />
-            <element signature="e#7916#8178#0" expanded="false" />
-            <element signature="e#8185#8249#0" expanded="false" />
-            <element signature="e#8293#8361#0" expanded="false" />
-            <element signature="e#8368#8432#0" expanded="false" />
-            <element signature="e#8477#8546#0" expanded="false" />
+            <element signature="e#8173#8237#0" expanded="false" />
+            <element signature="e#8281#8349#0" expanded="false" />
+            <element signature="e#8356#8420#0" expanded="false" />
+            <element signature="e#8465#8534#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bridge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="4208">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="e#61#7471#0" expanded="false" />
+            <element signature="e#67#134#0" expanded="false" />
+            <element signature="e#183#267#0" expanded="false" />
+            <element signature="e#293#367#0" expanded="false" />
+            <element signature="e#392#498#0" expanded="false" />
+            <element signature="e#528#596#0" expanded="false" />
+            <element signature="e#603#706#0" expanded="false" />
+            <element signature="e#736#823#0" expanded="false" />
+            <element signature="e#830#981#0" expanded="false" />
+            <element signature="e#1025#1256#0" expanded="false" />
+            <element signature="e#1263#1406#0" expanded="false" />
+            <element signature="e#1446#1645#0" expanded="false" />
+            <element signature="e#1718#2024#0" expanded="false" />
+            <element signature="e#2031#2477#0" expanded="false" />
+            <element signature="e#2508#3022#0" expanded="false" />
+            <element signature="e#3029#3475#0" expanded="false" />
+            <element signature="e#3506#4023#0" expanded="false" />
+            <element signature="e#4030#4904#0" expanded="false" />
+            <element signature="e#4910#5400#0" expanded="false" />
+            <element signature="e#5401#5441#0" expanded="false" />
+            <element signature="e#5924#6415#0" expanded="false" />
+            <element signature="e#6416#6456#0" expanded="false" />
+            <element signature="e#6906#7052#0" expanded="false" />
+            <element signature="e#7093#7140#0" expanded="false" />
+            <element signature="e#7147#7188#0" expanded="false" />
+            <element signature="e#7211#7467#0" expanded="false" />
+            <element signature="e#7537#7779#0" expanded="false" />
+            <element signature="e#7543#7601#0" expanded="false" />
+            <element signature="e#8173#8237#0" expanded="false" />
+            <element signature="e#8281#8349#0" expanded="false" />
+            <element signature="e#8356#8420#0" expanded="false" />
+            <element signature="e#8465#8534#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bridge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="4208">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="e#61#7471#0" expanded="false" />
+            <element signature="e#67#134#0" expanded="false" />
+            <element signature="e#183#267#0" expanded="false" />
+            <element signature="e#293#367#0" expanded="false" />
+            <element signature="e#392#498#0" expanded="false" />
+            <element signature="e#528#596#0" expanded="false" />
+            <element signature="e#603#706#0" expanded="false" />
+            <element signature="e#736#823#0" expanded="false" />
+            <element signature="e#830#981#0" expanded="false" />
+            <element signature="e#1025#1256#0" expanded="false" />
+            <element signature="e#1263#1406#0" expanded="false" />
+            <element signature="e#1446#1645#0" expanded="false" />
+            <element signature="e#1718#2024#0" expanded="false" />
+            <element signature="e#2031#2477#0" expanded="false" />
+            <element signature="e#2508#3022#0" expanded="false" />
+            <element signature="e#3029#3475#0" expanded="false" />
+            <element signature="e#3506#4023#0" expanded="false" />
+            <element signature="e#4030#4904#0" expanded="false" />
+            <element signature="e#4910#5400#0" expanded="false" />
+            <element signature="e#5401#5441#0" expanded="false" />
+            <element signature="e#5924#6415#0" expanded="false" />
+            <element signature="e#6416#6456#0" expanded="false" />
+            <element signature="e#6906#7052#0" expanded="false" />
+            <element signature="e#7093#7140#0" expanded="false" />
+            <element signature="e#7147#7188#0" expanded="false" />
+            <element signature="e#7211#7467#0" expanded="false" />
+            <element signature="e#7537#7779#0" expanded="false" />
+            <element signature="e#7543#7601#0" expanded="false" />
+            <element signature="e#8173#8237#0" expanded="false" />
+            <element signature="e#8281#8349#0" expanded="false" />
+            <element signature="e#8356#8420#0" expanded="false" />
+            <element signature="e#8465#8534#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bridge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5301">
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding>
+            <element signature="e#61#7471#0" expanded="false" />
+            <element signature="e#67#134#0" expanded="false" />
+            <element signature="e#183#267#0" expanded="false" />
+            <element signature="e#293#367#0" expanded="false" />
+            <element signature="e#392#498#0" expanded="false" />
+            <element signature="e#528#596#0" expanded="false" />
+            <element signature="e#603#706#0" expanded="false" />
+            <element signature="e#736#823#0" expanded="false" />
+            <element signature="e#830#981#0" expanded="false" />
+            <element signature="e#1025#1256#0" expanded="false" />
+            <element signature="e#1263#1406#0" expanded="false" />
+            <element signature="e#1446#1645#0" expanded="false" />
+            <element signature="e#1718#2024#0" expanded="false" />
+            <element signature="e#2031#2477#0" expanded="false" />
+            <element signature="e#2508#3022#0" expanded="false" />
+            <element signature="e#3029#3475#0" expanded="false" />
+            <element signature="e#3506#4023#0" expanded="false" />
+            <element signature="e#4030#4904#0" expanded="false" />
+            <element signature="e#4910#5400#0" expanded="false" />
+            <element signature="e#5401#5441#0" expanded="false" />
+            <element signature="e#5924#6415#0" expanded="false" />
+            <element signature="e#6416#6456#0" expanded="false" />
+            <element signature="e#6906#7052#0" expanded="false" />
+            <element signature="e#7093#7140#0" expanded="false" />
+            <element signature="e#7147#7188#0" expanded="false" />
+            <element signature="e#7211#7467#0" expanded="false" />
+            <element signature="e#7537#7779#0" expanded="false" />
+            <element signature="e#7543#7601#0" expanded="false" />
+            <element signature="e#8173#8237#0" expanded="false" />
+            <element signature="e#8281#8349#0" expanded="false" />
+            <element signature="e#8356#8420#0" expanded="false" />
+            <element signature="e#8465#8534#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="256" max-vertical-offset="432">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bridge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4464">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#61#7471#0" expanded="false" />
+            <element signature="e#67#134#0" expanded="false" />
+            <element signature="e#183#267#0" expanded="false" />
+            <element signature="e#293#367#0" expanded="false" />
+            <element signature="e#392#498#0" expanded="false" />
+            <element signature="e#528#596#0" expanded="false" />
+            <element signature="e#603#706#0" expanded="false" />
+            <element signature="e#736#823#0" expanded="false" />
+            <element signature="e#830#981#0" expanded="false" />
+            <element signature="e#1025#1256#0" expanded="false" />
+            <element signature="e#1263#1406#0" expanded="false" />
+            <element signature="e#1446#1645#0" expanded="false" />
+            <element signature="e#1718#2024#0" expanded="false" />
+            <element signature="e#2031#2477#0" expanded="false" />
+            <element signature="e#2508#3022#0" expanded="false" />
+            <element signature="e#3029#3475#0" expanded="false" />
+            <element signature="e#3506#4023#0" expanded="false" />
+            <element signature="e#4030#4904#0" expanded="false" />
+            <element signature="e#4910#5400#0" expanded="false" />
+            <element signature="e#5401#5441#0" expanded="false" />
+            <element signature="e#5924#6415#0" expanded="false" />
+            <element signature="e#6416#6456#0" expanded="false" />
+            <element signature="e#6906#7052#0" expanded="false" />
+            <element signature="e#7093#7140#0" expanded="false" />
+            <element signature="e#7147#7188#0" expanded="false" />
+            <element signature="e#7211#7467#0" expanded="false" />
+            <element signature="e#7537#7779#0" expanded="false" />
+            <element signature="e#7543#7601#0" expanded="false" />
+            <element signature="e#8173#8237#0" expanded="false" />
+            <element signature="e#8281#8349#0" expanded="false" />
+            <element signature="e#8356#8420#0" expanded="false" />
+            <element signature="e#8465#8534#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="448">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bridge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="4464">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="e#61#7471#0" expanded="false" />
+            <element signature="e#67#134#0" expanded="false" />
+            <element signature="e#183#267#0" expanded="false" />
+            <element signature="e#293#367#0" expanded="false" />
+            <element signature="e#392#498#0" expanded="false" />
+            <element signature="e#528#596#0" expanded="false" />
+            <element signature="e#603#706#0" expanded="false" />
+            <element signature="e#736#823#0" expanded="false" />
+            <element signature="e#830#981#0" expanded="false" />
+            <element signature="e#1025#1256#0" expanded="false" />
+            <element signature="e#1263#1406#0" expanded="false" />
+            <element signature="e#1446#1645#0" expanded="false" />
+            <element signature="e#1718#2024#0" expanded="false" />
+            <element signature="e#2031#2477#0" expanded="false" />
+            <element signature="e#2508#3022#0" expanded="false" />
+            <element signature="e#3029#3475#0" expanded="false" />
+            <element signature="e#3506#4023#0" expanded="false" />
+            <element signature="e#4030#4904#0" expanded="false" />
+            <element signature="e#4910#5400#0" expanded="false" />
+            <element signature="e#5401#5441#0" expanded="false" />
+            <element signature="e#5924#6415#0" expanded="false" />
+            <element signature="e#6416#6456#0" expanded="false" />
+            <element signature="e#6906#7052#0" expanded="false" />
+            <element signature="e#7093#7140#0" expanded="false" />
+            <element signature="e#7147#7188#0" expanded="false" />
+            <element signature="e#7211#7467#0" expanded="false" />
+            <element signature="e#7537#7779#0" expanded="false" />
+            <element signature="e#7543#7601#0" expanded="false" />
+            <element signature="e#8173#8237#0" expanded="false" />
+            <element signature="e#8281#8349#0" expanded="false" />
+            <element signature="e#8356#8420#0" expanded="false" />
+            <element signature="e#8465#8534#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62217194" vertical-offset="22237" max-vertical-offset="34992">
+          <caret line="1407" column="18" selection-start-line="1407" selection-start-column="18" selection-end-line="1407" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../demo/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.76" vertical-offset="0" max-vertical-offset="400">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../demo/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="528">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/works/demo/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66480446" vertical-offset="20" max-vertical-offset="736">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../demo/temp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06703911" vertical-offset="0" max-vertical-offset="716">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/temp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="320">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/underscore-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="128">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../impress.js/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.04" vertical-offset="3952" max-vertical-offset="7104">
+          <caret line="258" column="7" selection-start-line="258" selection-start-column="7" selection-end-line="258" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ppt/2014-07-28/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.4" vertical-offset="0" max-vertical-offset="304">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ppt/2014-07-28/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="717">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ppt/2014-07-28/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15620641" vertical-offset="0" max-vertical-offset="717">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="665" max-vertical-offset="2096">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/_tc_web.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="768">
+          <caret line="184" column="2" selection-start-line="184" selection-start-column="2" selection-end-line="184" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1280" max-vertical-offset="1744">
+          <caret line="80" column="49" selection-start-line="80" selection-start-column="49" selection-end-line="80" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="1232">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bridge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22315203" vertical-offset="0" max-vertical-offset="6080">
+          <caret line="291" column="20" selection-start-line="291" selection-start-column="20" selection-end-line="291" selection-end-column="20" />
+          <folding>
+            <element signature="e#61#7471#0" expanded="false" />
+            <element signature="e#67#134#0" expanded="false" />
+            <element signature="e#183#267#0" expanded="false" />
+            <element signature="e#293#367#0" expanded="false" />
+            <element signature="e#392#498#0" expanded="false" />
+            <element signature="e#528#596#0" expanded="false" />
+            <element signature="e#603#706#0" expanded="false" />
+            <element signature="e#736#823#0" expanded="false" />
+            <element signature="e#830#981#0" expanded="false" />
+            <element signature="e#1025#1256#0" expanded="false" />
+            <element signature="e#1263#1406#0" expanded="false" />
+            <element signature="e#1446#1645#0" expanded="false" />
+            <element signature="e#1718#2024#0" expanded="false" />
+            <element signature="e#2031#2477#0" expanded="false" />
+            <element signature="e#2508#3022#0" expanded="false" />
+            <element signature="e#3029#3475#0" expanded="false" />
+            <element signature="e#3506#4023#0" expanded="false" />
+            <element signature="e#4030#4904#0" expanded="false" />
+            <element signature="e#4910#5400#0" expanded="false" />
+            <element signature="e#5401#5441#0" expanded="false" />
+            <element signature="e#5924#6415#0" expanded="false" />
+            <element signature="e#6416#6456#0" expanded="false" />
+            <element signature="e#6906#7052#0" expanded="false" />
+            <element signature="e#7093#7140#0" expanded="false" />
+            <element signature="e#7147#7188#0" expanded="false" />
+            <element signature="e#7211#7467#0" expanded="false" />
+            <element signature="e#7537#7779#0" expanded="false" />
+            <element signature="e#7543#7601#0" expanded="false" />
+            <element signature="e#8173#8237#0" expanded="false" />
+            <element signature="e#8281#8349#0" expanded="false" />
+            <element signature="e#8356#8420#0" expanded="false" />
+            <element signature="e#8465#8534#0" expanded="false" />
           </folding>
         </state>
       </provider>
