@@ -57,6 +57,7 @@ main {
 }
 
 #userinfo {
+  display: none;
   border: 1px solid #ccc;
   border-collapse: separate;
   border-spacing: 0;

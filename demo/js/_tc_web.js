@@ -4,7 +4,8 @@ define(["jquery", "temp"], function ($, temp) {
       var key,
         target = $('#userinfo'),
         tempStr,
-        userInfoArray = '';
+        userInfoObj = {},
+        userInfoArray = [];
 
       if (paramObj.memberId) {
         window._tc_bridge_public.isLogin = true;
@@ -12,19 +13,18 @@ define(["jquery", "temp"], function ($, temp) {
 
       if (window._tc_bridge_public.isLogin) {
         $('#reminder').hide();
+        $('#userinfo').show();
       }
 
       if (window._tc_bridge_public.NaEptObj(paramObj)) {
 
         for (key in paramObj) {
           if (paramObj.hasOwnProperty(key) && (key === 'loginName' || key === 'mobile' || key === 'email' || key === 'score')) {
-            userInfoArray = userInfoArray + '{"type":"' + key + '", "info":"' + paramObj[key] + '"},';
+            userInfoObj.type = key;
+            userInfoObj.info = paramObj[key];
+            userInfoArray.push(userInfoObj);
           }
         }
-
-        userInfoArray = userInfoArray.slice(0, -1);
-        userInfoArray = '[' + userInfoArray + ']';
-        userInfoArray = JSON.parse(userInfoArray);
 
         tempStr = temp(userInfoArray, 'userInfoTemp').str;
         target.find('.userDetail').remove();
