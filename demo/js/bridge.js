@@ -376,7 +376,6 @@ define(["json2"], function () {
       phoneNum = phoneNum || '4007777777';
 
       if (window._tc_bridge_public.NaEptStr(phoneNum)) {
-        phoneNum = window._tc_bridge_public.stringifyAndEncode(phoneNum);
 
         return window._tc_ntv_util.call_phone(phoneNum);
       }
