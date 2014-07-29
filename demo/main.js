@@ -72,5 +72,7 @@ require(["jquery", "json2", "bridge", "_tc_web"], function ($) {
     window._tc_bridge_encrypt.base64_encode('http://www.guhaodi.com');
   }).on('click', '#md5', function () {
     window._tc_bridge_encrypt.md5_hash('http://www.guhaodi.com');
+  }).on('click', '#next', function () {
+    window._tc_bridge_util.back_to_last_page('')
   });
 });
